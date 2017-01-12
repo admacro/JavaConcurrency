@@ -1,4 +1,4 @@
-package com.jamesni.dev.lock;
+package xyz.admacro.concurrency.lock;
 
 /**
  * Created by james.ni on 2/24/14.

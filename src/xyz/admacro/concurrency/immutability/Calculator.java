@@ -1,4 +1,4 @@
-package com.jamesni.dev.immutability;
+package xyz.admacro.concurrency.immutability;
 
 /**
  * Created by james.ni on 2/14/14.

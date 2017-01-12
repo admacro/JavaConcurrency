@@ -1,4 +1,4 @@
-package com.jamesni.dev.signaling;
+package xyz.admacro.concurrency.signaling;
 
 /**
  * Created by james.ni on 1/28/14.

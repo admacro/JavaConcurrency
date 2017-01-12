@@ -1,4 +1,4 @@
-package com.jamesni.dev.lock;
+package xyz.admacro.concurrency.lock;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

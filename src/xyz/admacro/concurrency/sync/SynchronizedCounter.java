@@ -1,4 +1,4 @@
-package com.jamesni.dev.sync;
+package xyz.admacro.concurrency.sync;
 
 /**
  * Created by james.ni on 2/14/14.

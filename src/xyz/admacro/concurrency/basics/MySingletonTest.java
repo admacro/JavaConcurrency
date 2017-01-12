@@ -1,4 +1,4 @@
-package com.jamesni.dev.basics;
+package xyz.admacro.concurrency.basics;
 
 /**
  * Created by james.ni on 3/6/14.

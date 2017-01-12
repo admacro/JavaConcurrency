@@ -1,6 +1,4 @@
-package com.jamesni.dev.lock;
-
-import com.jamesni.dev.signaling.SharedData;
+package xyz.admacro.concurrency.lock;
 
 /**
  * Created by james.ni on 2/24/14.
